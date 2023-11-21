@@ -43,8 +43,13 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 34px;
-    /* background-image: url("music.jfif"); */
-    /* background-repeat: no-repeat; */
+    background-image: url("../public/images/music.jpg"); 
+    background-repeat: no-repeat;
+    background-position: 100%;
+
+    
+}
+.songList{
     
 }
 .bottom{
@@ -101,7 +106,7 @@ nav ul li{
     cursor: pointer;
 }
 .songItemContainer{
-    margin-top: 46px;
+    /* margin-top: 46px; */
 }
 .songInfo{
     position: absolute;
